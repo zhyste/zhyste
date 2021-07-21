@@ -8,8 +8,8 @@ My interests bloomed when i started to code my own games using Lua on Roblox whi
 - Kaggle Challenges 
 
 ### Projects That I Plan to Do in The Future:
-- An app that can decipher the various ingredients in your food and it's calories
-- Home automation with storing of data
+- An App That Can Decipher The Various Ingredients in Your Food and it's Calories
+- Home Automation with Automatic Data Collection
 
 ### What i Enjoy Doing:
 - Building Computers 
